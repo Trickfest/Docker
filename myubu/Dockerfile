@@ -1,7 +1,7 @@
 # rolling is current
 FROM ubuntu:rolling
 
-# trusy is 14.x
+# trusty is 14.x
 #FROM ubuntu:trusty
 
 # xenial is 16.x
