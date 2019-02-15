@@ -1,3 +1,5 @@
 # Docker
 
-Random Docker stuff.  See sub-folders for more information.
+Random Docker stuff.
+
+* MyUbu - Dockerfile to create a Ubuntu-based image suitable for interactive use.
