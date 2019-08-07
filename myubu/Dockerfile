@@ -8,7 +8,7 @@ FROM ubuntu:rolling
 #FROM ubuntu:xenial
 
 # artful is 17.x
-# FROM ubuntu:artful
+#FROM ubuntu:artful
 
 LABEL description="Create a personal Ubuntu image"
 
